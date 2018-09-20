@@ -1,0 +1,85 @@
+
+A Guide on How to Use the Phonebook Program
+
+---------------------------------------------------------------
+
+Table of Contents:
+
+1. Adding a Contact
+2. Deleting a Contact
+3. Sorting Your Contacts
+4. Saving Your Contacts
+5. Exiting the Phonebook
+
+----------------------------------------------------------------
+
+Adding a Contact:
+
+To add a contact into the Phonebook, you will need:
+   1. A first name
+   2. A last name 
+   3. A phone number
+   4. Some notes about your contact
+
+Once you have these criteria met in your head, enter the corresponding criteria into their fields
+(for example, your desired first name should go into the 'Enter a first name' field). Some notes
+about entering into the fields:
+1. The first name and last name should not exceed more than eight characters; otherwise, it
+    not enter
+2. The phone number should be entered in one of three ways:
+    * XXX-XXX-XXXX
+    * XXX-XXXX
+    * (XXX)-XXX-XXXX
+Upon entering a contact, the information will be displayed onto the table above the text fields.
+
+----------------------------------------------------------------
+
+Deleting a Contact:
+
+If you somehow messed up your contact when you entered it (for example, you spelled one of 
+the names wrong, or you put in a wrong phone number), you can easily delete the wrong entry
+by selecting it (done via clicking onto the row that the contact is in) and then pressing the 'Delete'
+button.
+
+----------------------------------------------------------------
+
+Sorting Your Contacts:
+
+Your contacts within the table can be sorted through a manner of ways:
+   1. Their first names
+   2. Their last names
+   3. By the time you entered the contact into the phonebook
+   4. Their phone number(?)
+   5. Their associated note(?)
+
+This can be done by clicking on the top of the columns; this can sort by ascending or descending.
+
+----------------------------------------------------------------
+
+Saving Your Contacts:
+
+Disclaimer: for a proper loading of contacts into the Phonebook, the path for saving will differ from
+computer to computer. Wherever your copy of the Phonebook project is located will also be the 
+location for your contacts' text file.
+
+To save your contacts, click on the File button located at the top of the program. Two options will 
+appear; the one desired for saving will, obviously, be titled 'Save'.
+
+Once 'Save' is clicked, a File Explorer will open, allowing to save your file in any directory
+**once again, to load in your contacts upon opening the Phonebook, save into your project's txt file**
+
+The path desired for reloading your contacts will be:
+C:\Users\Frank Parker\IdeaProjects\Project 8\src\PhonebookPackage\contacts.txt
+
+----------------------------------------------------------------
+
+Exiting the Phonebook:
+
+To exit the Phonebook, there are two ways to do so:
+   1. Click on the 'X' at the top right corner of the window
+   2. Click on 'File', then click on 'Exit'. A confirmation window will pop up; just click 'OK', then the window
+       will close.
+
+Remember to save your contacts before exiting the Phonebook; otherwise, they will not load up when the
+Phonebook is opened again.
+
